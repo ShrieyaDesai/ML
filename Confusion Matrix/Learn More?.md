@@ -23,9 +23,8 @@ From the confusion matrix, we can derive key classification metrics:
 
 ---
 
-## 🚀 Implementing Confusion Matrix in Python
 
-### **1️⃣ Import Necessary Libraries**
+### ** Import Necessary Libraries to implement confusion matrix in Python**
 ```python
 import numpy as np
 import pandas as pd
