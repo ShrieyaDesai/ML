@@ -1,4 +1,4 @@
-#PROGRAM To Implement a Decision TREE AND to DISPLAY IT 
+#Program to Implement a Decision TREE -- Classifier Problem
 
 print('PROGRAM To Implement a Decision Tree AND to DISPLAY IT') 
 from sklearn import datasets 
