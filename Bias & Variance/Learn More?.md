@@ -7,7 +7,7 @@ The **Bias-Variance Tradeoff** is a fundamental concept in machine learning that
 
 ---
 
-## 📌 Understanding Bias and Variance
+##  Understanding Bias and Variance
 ### **1️⃣ High Bias / Low Variance (Underfitting)**
 - **Model Type**: Linear Model (Simple Model)
 - **Characteristics**:
