@@ -1,6 +1,6 @@
 #Program to Implement a Decision TREE -- Classifier Problem
 
-print('PROGRAM To Implement a Decision Tree AND to DISPLAY IT') 
+print('Program to Implement a Decision TREE -- Classifier Problem') 
 from sklearn import datasets 
 import pandas as pd 
 
