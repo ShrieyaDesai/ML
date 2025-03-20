@@ -5,9 +5,6 @@ This repository serves as a reference for ML concepts, covering supervised, unsu
 
 ---
 
-
----
-
 ##  Basics of Machine Learning
 The fundamental ML algorithms include:
 - **Linear Regression** → Predict continuous values 📈
